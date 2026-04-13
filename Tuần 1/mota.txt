@@ -1,0 +1,18 @@
+PHẦN MỀM QUẢN LÝ ĐOÀN VIÊN
+
+1. Mô tả:
+Phần mềm giúp quản lý thông tin đoàn viên trong trường đại học.
+
+2. Chức năng:
+- Thêm đoàn viên
+- Sửa thông tin
+- Xóa đoàn viên
+- Tìm kiếm đoàn viên
+- Hiển thị danh sách
+
+3. Thông tin đoàn viên:
+- Mã đoàn viên
+- Họ tên
+- Lớp
+- Khoa
+- Ngày sinh
