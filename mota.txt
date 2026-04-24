@@ -1,0 +1,28 @@
+PHẦN MỀM QUẢN LÝ ĐOÀN VIÊN
+
+1. Giới thiệu:
+Phần mềm quản lý đoàn viên được xây dựng nhằm hỗ trợ việc lưu trữ,
+quản lý và tra cứu thông tin đoàn viên trong trường đại học một cách nhanh chóng và hiệu quả.
+
+2. Mục tiêu:
+- Quản lý thông tin đoàn viên
+- Giảm thiểu sai sót khi nhập dữ liệu
+- Tăng tốc độ tìm kiếm thông tin
+
+3. Chức năng chính:
+- Thêm đoàn viên mới
+- Sửa thông tin đoàn viên
+- Xóa đoàn viên
+- Tìm kiếm đoàn viên theo tên
+- Hiển thị danh sách đoàn viên
+
+4. Thông tin quản lý:
+- Mã đoàn viên
+- Họ tên
+- Lớp
+- Khoa
+- Ngày sinh
+
+5. Công nghệ sử dụng:
+- Ngôn ngữ: Python
+- Giao diện: Tkinter
